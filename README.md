@@ -10,21 +10,34 @@
 
 ## Демонстрация
 
-В этот раздел можно добавить:
+### Общий экран
 
-- скриншот интерфейса: `docs/media/screenshot.png`;
-- видео демонстрации: ссылка на GitHub attachment/Release или файл `docs/media/demo.mp4`;
-- презентацию решения: `docs/media/presentation.pdf`.
-
-<!--
 <p align="center">
-  <img src="docs/media/screenshot.png" alt="Скриншот решения Полка под контролем" width="85%" />
+  <img src="docs/media/01-overview.png" alt="Общий экран решения Полка под контролем" width="90%" />
 </p>
 
-[Видео демонстрации решения](docs/media/demo.mp4)
+### Загрузка и обработка видео
 
-[Презентация решения](docs/media/presentation.pdf)
--->
+<p align="center">
+  <img src="docs/media/02-processing.png" alt="Загрузка и обработка видео" width="90%" />
+</p>
+
+### Готовый результат
+
+<p align="center">
+  <img src="docs/media/03-result.png" alt="Готовый результат распознавания ценников" width="90%" />
+</p>
+
+### Review-отчет по найденным ценникам
+
+<p align="center">
+  <img src="docs/media/04-review-report.png" alt="Review-отчет с найденными ценниками" width="90%" />
+</p>
+
+Место для дополнительных материалов:
+
+- видео демонстрации: ссылка на GitHub attachment/Release или файл `docs/media/demo.mp4`;
+- презентация решения: `docs/media/presentation.pdf`.
 
 Если при проверке или запуске возникнут проблемы, напишите в Telegram: [@rktqq](https://t.me/rktqq). Быстро поможем с окружением, артефактами или демо-стендом.
 
