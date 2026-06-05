@@ -65,8 +65,6 @@
 
 </details>
 
-Если при проверке или запуске возникнут проблемы, напишите в Telegram: [@rktqq](https://t.me/rktqq). Быстро поможем с окружением, артефактами или демо-стендом.
-
 Демо-стенд:
 
 https://apt-valley-plugins-therefore.trycloudflare.com
