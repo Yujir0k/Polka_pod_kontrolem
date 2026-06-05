@@ -34,10 +34,37 @@
   <img src="docs/media/04-review-report.png" alt="Review-отчет с найденными ценниками" width="90%" />
 </p>
 
-Место для дополнительных материалов:
+### Презентация
 
-- видео демонстрации: ссылка на GitHub attachment/Release или файл `docs/media/demo.mp4`;
-- презентация решения: `docs/media/presentation.pdf`.
+Сжатая PDF-версия: [docs/media/presentation.pdf](docs/media/presentation.pdf).
+Видео демонстрации можно добавить позже как `docs/media/demo.mp4`.
+
+<details open>
+<summary>Листать презентацию прямо в README</summary>
+
+<p align="center">
+  <img src="docs/media/presentation-pages/page-01.jpg" alt="Презентация Полка под контролем, слайд 1" width="90%" />
+  <img src="docs/media/presentation-pages/page-02.jpg" alt="Презентация Полка под контролем, слайд 2" width="90%" />
+  <img src="docs/media/presentation-pages/page-03.jpg" alt="Презентация Полка под контролем, слайд 3" width="90%" />
+  <img src="docs/media/presentation-pages/page-04.jpg" alt="Презентация Полка под контролем, слайд 4" width="90%" />
+  <img src="docs/media/presentation-pages/page-05.jpg" alt="Презентация Полка под контролем, слайд 5" width="90%" />
+  <img src="docs/media/presentation-pages/page-06.jpg" alt="Презентация Полка под контролем, слайд 6" width="90%" />
+  <img src="docs/media/presentation-pages/page-07.jpg" alt="Презентация Полка под контролем, слайд 7" width="90%" />
+  <img src="docs/media/presentation-pages/page-08.jpg" alt="Презентация Полка под контролем, слайд 8" width="90%" />
+  <img src="docs/media/presentation-pages/page-09.jpg" alt="Презентация Полка под контролем, слайд 9" width="90%" />
+  <img src="docs/media/presentation-pages/page-10.jpg" alt="Презентация Полка под контролем, слайд 10" width="90%" />
+  <img src="docs/media/presentation-pages/page-11.jpg" alt="Презентация Полка под контролем, слайд 11" width="90%" />
+  <img src="docs/media/presentation-pages/page-12.jpg" alt="Презентация Полка под контролем, слайд 12" width="90%" />
+  <img src="docs/media/presentation-pages/page-13.jpg" alt="Презентация Полка под контролем, слайд 13" width="90%" />
+  <img src="docs/media/presentation-pages/page-14.jpg" alt="Презентация Полка под контролем, слайд 14" width="90%" />
+  <img src="docs/media/presentation-pages/page-15.jpg" alt="Презентация Полка под контролем, слайд 15" width="90%" />
+  <img src="docs/media/presentation-pages/page-16.jpg" alt="Презентация Полка под контролем, слайд 16" width="90%" />
+  <img src="docs/media/presentation-pages/page-17.jpg" alt="Презентация Полка под контролем, слайд 17" width="90%" />
+  <img src="docs/media/presentation-pages/page-18.jpg" alt="Презентация Полка под контролем, слайд 18" width="90%" />
+  <img src="docs/media/presentation-pages/page-19.jpg" alt="Презентация Полка под контролем, слайд 19" width="90%" />
+</p>
+
+</details>
 
 Если при проверке или запуске возникнут проблемы, напишите в Telegram: [@rktqq](https://t.me/rktqq). Быстро поможем с окружением, артефактами или демо-стендом.
 
@@ -432,7 +459,7 @@ Docker-окружение дополнительно использует Ubuntu
 ├── web/                 # UI, API, jobs, metrics, SQLite writer, worker process
 ├── pipeline/            # inference/training pipeline без весов и датасетов
 ├── artifacts/           # Git LFS и подключаемые артефакты модели/каталога
-├── docs/media/          # место для скриншота, видео и PDF-презентации
+├── docs/media/          # скриншоты, видео, PDF-презентация и страницы презентации
 ├── tools/               # проверки окружения
 ├── Dockerfile
 ├── Dockerfile.gpu
