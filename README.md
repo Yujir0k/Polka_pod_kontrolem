@@ -37,7 +37,6 @@
 ### Презентация
 
 Сжатая PDF-версия: [docs/media/presentation.pdf](docs/media/presentation.pdf).
-Видео демонстрации можно добавить позже как `docs/media/demo.mp4`.
 
 <details>
 <summary>Листать презентацию прямо в README</summary>
